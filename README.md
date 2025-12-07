@@ -1,4 +1,5 @@
-GitHub 教程：这是本地端修改的版本（B版）
+GitHub 教程：这是本地端修改的版本（终极版）
+
 # hello-world
 this is my first github porjest
 # 自我介绍
